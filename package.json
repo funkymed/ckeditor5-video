@@ -1,6 +1,6 @@
 {
   "name": "@funkymed/ckeditor5-video",
-  "version": "23.1.1",
+  "version": "23.1.0",
   "description": "Video features for CKEditor 5 (base on @idonans/ckeditor5-video) added controls by default.",
   "keywords": [
     "ckeditor",
